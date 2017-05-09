@@ -14,7 +14,9 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
+ * 示例一：
  * 进行资源的拦截、检测 & 替换
+ * 通过拦截H5页面的资源网络请求 从而 直接从本地读取资源 而不需要发送网络请求到服务器读取。
  *
  * @author Nan
  */
