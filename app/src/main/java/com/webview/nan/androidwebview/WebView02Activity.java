@@ -6,6 +6,8 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 
 /**
+ * 示例二：
+ * <p>
  * Android WebView自带的缓存机制有5种：
  * 浏览器 缓存机制
  * Application Cache 缓存机制
